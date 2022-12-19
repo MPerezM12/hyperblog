@@ -1,6 +1,6 @@
-Hola mundo
+Esta es la historioa de Melissa Perez
 
-Soy Melissa estoy probando actualizaciones en el curso Git y Github
+Melissa tiene 31 años y nacio en Uruguay, 
+ahora vive en EEUU
 
-En Platzi
-Nunca pares de aprender!
+Hoy hablaremos de su historia para programar
