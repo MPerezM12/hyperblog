@@ -1,8 +1,9 @@
 Esta es la historia de Melissade
 
-Melissade tiene 31 años y nacio en Uruguay, 
-ahora vive en EEUU.
+Melissade tiene 31 años y nacio en Uruguay, ahora vive en EEUU.
 
 Dana nacio en Las Acacias y está contribuyendo en este proyecto open source 
+
+Main 1
 
 Hoy hablaremos de su historia.
