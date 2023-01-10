@@ -9,5 +9,7 @@ En este curso trabajamos:
 * Pull request
 * Buenas prácticas
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 **Importante:** Nunca pares de aprender!
