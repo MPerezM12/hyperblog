@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 Esta es la historia de Melissade
-=======
-Esta es la historioa de Melissa
->>>>>>> 8386906f83e3ee2b5badad9434365ab431007bd1
 
 Melissade tiene 31 años y nacio en Uruguay, 
 ahora vive en EEUU.
 
-<<<<<<< HEAD
-Dana nacio en Las Acacias 
+Dana nacio en Las Acacias y está contribuyendo en este proyecto open source 
 
-=======
->>>>>>> 8386906f83e3ee2b5badad9434365ab431007bd1
-Hoy hablaremos de su historia para aprender a programar y cambiar de industria.
+Hoy hablaremos de su historia.
