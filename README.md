@@ -8,5 +8,6 @@ En este curso trabajamos:
 * Manejo de ramas
 * Pull request
 * Buenas prácticas
+* Creado por el increible Platzi Team
 
 **Importante:** Nunca pares de aprender!
